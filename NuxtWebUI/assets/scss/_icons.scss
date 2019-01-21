@@ -1,0 +1,50 @@
+$icons-path: '../images/icons/';
+
+.webicon {
+	$radius: 6px;
+	$size: 32px;
+
+	display: inline-block;
+	width: $size;
+	height: $size;
+	-moz-border-radius: $radius;
+	-webkit-border-radius: $radius;
+	border-radius: $radius;	
+
+	&.small {
+		$radius: 3px;
+		$size: 20px;
+
+		width: $size;
+		height: $size;
+		-moz-border-radius: $radius;
+		-webkit-border-radius: $radius;
+		border-radius: $radius;	
+	}
+	
+	&.large {
+		$radius: 3px;
+		$size: 48px;
+
+		width: $size;
+		height: $size;
+		-moz-border-radius: $radius;
+		-webkit-border-radius: $radius;
+		border-radius: $radius;	
+	}
+
+	&.vl-lead {
+		background: url('#{$icons-path}/lead.svg');
+	}
+
+	&.vl-bouldering {
+		background: url('#{$icons-path}/bouldering.svg');
+	}
+
+	// css colour change wont work with background svg 
+	// use /components/common/AscentType.vue instead if wanting to change colors
+	&.vl-ascent-type {
+		background: url('#{$icons-path}/ascent_type.svg?as=1');
+	}
+}
+

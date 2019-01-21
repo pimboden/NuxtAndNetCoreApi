@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_8anu.Api.Managers</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\8anu.Api.Common\8anu.Api.Common.csproj" />
+    <ProjectReference Include="..\8anu.Api.Data\8anu.Api.Data.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Hangfire" Version="1.6.20" />
+    <PackageReference Include="NEST" Version="6.2.0" />
+    <PackageReference Include="NEST.JsonNetSerializer" Version="6.2.0" />
+  </ItemGroup>
+</Project>

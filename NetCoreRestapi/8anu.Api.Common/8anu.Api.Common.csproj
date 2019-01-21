@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_8anu.Api.Common</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="2.1.0" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="2.1.0" />
+    <PackageReference Include="NEST" Version="6.2.0" />
+    <PackageReference Include="NEST.JsonNetSerializer" Version="6.2.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="UnidecodeSharpFork" Version="1.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Enums\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Extensions.Configuration.Abstractions">
+      <HintPath>..\..\..\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.extensions.configuration.abstractions\2.0.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.Abstractions.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Interfaces\GuidDataEntity.cs" />
+    <Compile Remove="Interfaces\IntDataEntity.cs" />
+    <Compile Remove="Article.cs" />
+    <Compile Remove="DataEtities\Ascent.cs" />
+    <Compile Remove="DataEtities\Boulder.cs" />
+    <Compile Remove="DataEtities\ClimbableThingieBase.cs" />
+    <Compile Remove="DataEtities\Country.cs" />
+    <Compile Remove="DataEtities\Crag.cs" />
+    <Compile Remove="DataEtities\ForumCategory.cs" />
+    <Compile Remove="DataEtities\ForumComment.cs" />
+    <Compile Remove="DataEtities\ForumThread.cs" />
+    <Compile Remove="DataEtities\GradingSystem.cs" />
+    <Compile Remove="DataEtities\NewsItem.cs" />
+    <Compile Remove="DataEtities\Route.cs" />
+    <Compile Remove="DataEtities\Sector.cs" />
+    <Compile Remove="DataEtities\TestModel.cs" />
+    <Compile Remove="DataEtities\User.cs" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,68 @@
+{
+  "links": {
+    "home": "Home",
+    "news": "News",
+    "videos": "Videos",
+    "articles": "Articles",
+    "areas": "Areas",
+    "crags": "Crags",
+    "forum":"Forum",
+    "forum-top": "Forum-root"
+  },
+  "home": {
+    "title": "Home"
+  },
+  "news": {
+    "title": "News"
+  },
+  "videos": {
+    "title": "Videos"
+  },
+  "articles": {
+    "title": "Articles"
+  },
+  "forum": {
+    "title": "Forum",
+    "threads": "topics",
+    "comments": "posts",
+    "latestcomment": "latest post",
+    "latestcommentby": "by"
+  },
+  "crags": {
+    "cragname": "CRAG NAME",
+    "country": "COUNTRY",
+    "numberofascents": "NUMBER OF ASCENTS",
+    "rating": "RATING",
+    "routes-link": "LEAD CLIMBING",
+    "boulders-link": "BOULDERING",
+    "routes": {
+      "grade": "GRADE",
+      "name": "NAME",
+      "ascents": "ASCENTS",
+      "ratio": "FL/OS RATIO",
+      "recommended": "RECOMMENDED",
+      "stars": "STARS",
+      "route": {
+        "tablehead": {
+          "username": "USER NAME",
+          "date": "DATE",
+          "style": "STYLE",
+          "notes": "NOTES",
+          "rating": "RATING"
+        }
+      }
+    }
+  },
+  "areas": {
+    "areaname": "AREA NAME",
+    "country": "COUNTRY",
+    "numberofascents": "NUMBER OF ASCENTS",
+    "rating": "RATING"
+  },
+  "searchCategories": {
+    "areas": "CLIMBING AREAS",
+    "crags": "CRAGS",
+    "sectors": "SECTORS",
+    "zlaggables": "ROUTES & BOULDERS"
+  }
+}

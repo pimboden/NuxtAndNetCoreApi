@@ -1,0 +1,18 @@
+SET FOREIGN_KEY_CHECKS = 0;
+DROP TABLE IF EXISTS `__EFMigrationsHistory`;
+DROP TABLE IF EXISTS `ascents`;
+DROP TABLE IF EXISTS `boulders`;
+DROP TABLE IF EXISTS `routes`;
+DROP TABLE IF EXISTS `areas`;
+DROP TABLE IF EXISTS `articles`;
+DROP TABLE IF EXISTS `countries`;
+DROP TABLE IF EXISTS `crags`;
+DROP TABLE IF EXISTS `forum_categories`;
+DROP TABLE IF EXISTS `forum_comments`;
+DROP TABLE IF EXISTS `forum_threads`;
+DROP TABLE IF EXISTS `grading_systems`;
+DROP TABLE IF EXISTS `news`;
+DROP TABLE IF EXISTS `sectors`;
+DROP TABLE IF EXISTS `test_models`;
+DROP TABLE IF EXISTS `users`;
+SET FOREIGN_KEY_CHECKS = 1;
