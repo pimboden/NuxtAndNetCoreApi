@@ -1,0 +1,18 @@
+version: 0.0
+os: linux
+files:
+  - source: 8anu.Api/bin/Debug/netcoreapp2.1/publish/
+    destination: /var/aspnetcore/8anu/
+hooks:
+  AfterInstall:
+    - location: scripts/change_permissions.sh
+      timeout: 300
+      runas: root
+  ApplicationStart:
+    - location: scripts/start_server.sh
+      timeout: 300
+      runas: root
+  ApplicationStop:
+    - location: scripts/stop_server.sh
+      timeout: 300
+      runas: root

@@ -1,0 +1,42 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Kalle Vänskä",
+  "classifications": [ "8a.nu", "repository" ],
+  "identity": "_8anu.RestApi.RepositoryModel",
+  "name": "8a.nu REST Api template to create repository model",
+  "shortName": "8anurepmodel",
+  "symbols": {
+  	"singularCamel": {
+  		"type": "parameter",
+  		"datatype": "string",
+  		"defaultvalue": "Frog",
+  		"replaces": "[SINGULAR]",
+  		"FileRename": "-FILESINGULAR-"
+  	},
+  	"pluralCamel": {
+  		"type": "parameter",
+  		"datatype": "string",
+  		"defaultvalue": "Frogs",
+  		"replaces": "[PLURAL]",
+  		"FileRename": "-FILEPLURAL-"
+  	},
+  	"singularLower": {
+  		"type": "generated",
+  		"generator": "casing",
+  		"parameters" : {
+  			"source":"singularCamel",
+  			"toLower":"true"
+  		},
+  		"replaces": "[L-SINGULAR]"
+  	},
+  	"pluralLower": {
+  		"type": "generated",
+  		"generator": "casing",
+  		"parameters" : {
+  			"source":"pluralCamel",
+  			"toLower":"true"
+  		},
+  		"replaces": "[L-PLURAL]"
+  	}
+  }
+}

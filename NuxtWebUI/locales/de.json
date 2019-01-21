@@ -1,0 +1,29 @@
+{
+  "links": {
+    "home": "Home(de)",
+    "news": "News(de)",
+    "videos": "Videos(de)",
+    "articles": "Artikel",
+    "forum":"Forum",
+    "forum-top": "Forum - start"
+  },
+  "home": {
+    "title": "Willkommen"
+  },
+  "news": {
+    "title": "News"
+  },
+  "videos": {
+    "title": "Videos"
+  },
+  "articles": {
+    "title": "Artikel"
+  },
+  "forum": {
+    "title": "Forum",
+    "threads": "topics",
+    "comments": "posts",
+    "latestcomment": "latest post",
+    "latestcommentby": "von"
+  }
+}

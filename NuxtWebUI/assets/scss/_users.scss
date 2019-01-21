@@ -1,0 +1,100 @@
+.user-page{
+	.user-column{
+		.profile-head{
+			.profile-data{
+				background-color:$color-extra-light;
+				.cell{
+					border:0px solid red;
+				}
+				.profile-column-1{
+					padding:20px 30px;
+					img{
+						border-radius: 50%;
+						width:150px;
+					}
+				}
+				.profile-column-2{
+					padding:20px;
+					.username{
+						h2{
+							font-size:25px;
+							font-weight:bold;
+							margin: 0;
+						}
+					}
+					.location{
+						font-size:20px;
+						span{
+							font-size:13px;
+							padding-left: 5px
+						}
+					}
+					.age{
+						font-size:13px;
+					}
+					.social-media{
+						.instagram{
+							float:left;
+							padding-right: 5px
+						}
+						.facebook{
+							float:left;
+						}
+					}
+				}
+				.profile-column-4,
+				.profile-column-3{
+					padding:20px 0;
+					text-align:center;
+					.number{
+						font-size:25px;
+						font-weight:bold;
+						border-right: 1px solid #000000;
+					}
+					.text{
+						text-transform:uppercase;
+						font-size:12px;
+					}
+					.button{
+						display:block;
+						margin: 10px 10px 0 10px;
+						background-color:$color-dark;
+						color:$color-white;
+
+						a{
+							color:$color-white;
+							text-transform:uppercase;
+							font-size:12px;
+						}
+					}
+					.button:hover{
+						background-color:rgba($color-dark, 0.8);
+					}
+				}
+				.profile-column-4{
+					.number{
+						border: 0px solid #000000;
+					}
+				}
+			}
+			.profile-navigation{
+				background-color:$color-dark;
+				text-align:center;
+				line-height: 65px;
+				a{
+					text-transform:uppercase;
+					color:$color-white;
+					font-size:12px;
+					font-weight: bold;
+				}
+				a.active{
+					color:$color-active;
+				}
+				a.settings{
+					color:$color-white;
+					font-size:25px;
+				}
+			}
+		}
+	}
+}

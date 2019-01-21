@@ -1,0 +1,3684 @@
+[
+	{
+		"Id": 1,
+		"VLGrade": "vl-1",
+		"Type": "vl_sportclimbing",
+		"Grade": "1",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 2,
+		"VLGrade": "vl-2",
+		"Type": "vl_sportclimbing",
+		"Grade": "2",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 3,
+		"VLGrade": "vl-3",
+		"Type": "vl_sportclimbing",
+		"Grade": "2",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 4,
+		"VLGrade": "vl-4",
+		"Type": "vl_sportclimbing",
+		"Grade": "3",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 5,
+		"VLGrade": "vl-5",
+		"Type": "vl_sportclimbing",
+		"Grade": "3",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 6,
+		"VLGrade": "vl-6",
+		"Type": "vl_sportclimbing",
+		"Grade": "4",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 7,
+		"VLGrade": "vl-7",
+		"Type": "vl_sportclimbing",
+		"Grade": "4",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 8,
+		"VLGrade": "vl-8",
+		"Type": "vl_sportclimbing",
+		"Grade": "4",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 9,
+		"VLGrade": "vl-9",
+		"Type": "vl_sportclimbing",
+		"Grade": "5",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 10,
+		"VLGrade": "vl-10",
+		"Type": "vl_sportclimbing",
+		"Grade": "5a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 11,
+		"VLGrade": "vl-11",
+		"Type": "vl_sportclimbing",
+		"Grade": "5a+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 12,
+		"VLGrade": "vl-12",
+		"Type": "vl_sportclimbing",
+		"Grade": "5b",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 13,
+		"VLGrade": "vl-13",
+		"Type": "vl_sportclimbing",
+		"Grade": "5b+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 14,
+		"VLGrade": "vl-14",
+		"Type": "vl_sportclimbing",
+		"Grade": "5c",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 15,
+		"VLGrade": "vl-15",
+		"Type": "vl_sportclimbing",
+		"Grade": "5c+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 16,
+		"VLGrade": "vl-16",
+		"Type": "vl_sportclimbing",
+		"Grade": "6a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 17,
+		"VLGrade": "vl-17",
+		"Type": "vl_sportclimbing",
+		"Grade": "6a+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 18,
+		"VLGrade": "vl-18",
+		"Type": "vl_sportclimbing",
+		"Grade": "6b",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 19,
+		"VLGrade": "vl-19",
+		"Type": "vl_sportclimbing",
+		"Grade": "6b+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 20,
+		"VLGrade": "vl-20",
+		"Type": "vl_sportclimbing",
+		"Grade": "6b+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 21,
+		"VLGrade": "vl-21",
+		"Type": "vl_sportclimbing",
+		"Grade": "6c",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 22,
+		"VLGrade": "vl-22",
+		"Type": "vl_sportclimbing",
+		"Grade": "6c+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 23,
+		"VLGrade": "vl-23",
+		"Type": "vl_sportclimbing",
+		"Grade": "7a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 24,
+		"VLGrade": "vl-24",
+		"Type": "vl_sportclimbing",
+		"Grade": "7a+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 25,
+		"VLGrade": "vl-25",
+		"Type": "vl_sportclimbing",
+		"Grade": "7b",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 26,
+		"VLGrade": "vl-26",
+		"Type": "vl_sportclimbing",
+		"Grade": "7b+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 27,
+		"VLGrade": "vl-27",
+		"Type": "vl_sportclimbing",
+		"Grade": "7c",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 28,
+		"VLGrade": "vl-28",
+		"Type": "vl_sportclimbing",
+		"Grade": "7c+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 29,
+		"VLGrade": "vl-29",
+		"Type": "vl_sportclimbing",
+		"Grade": "8a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 30,
+		"VLGrade": "vl-30",
+		"Type": "vl_sportclimbing",
+		"Grade": "8a+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 31,
+		"VLGrade": "vl-31",
+		"Type": "vl_sportclimbing",
+		"Grade": "8b",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 32,
+		"VLGrade": "vl-32",
+		"Type": "vl_sportclimbing",
+		"Grade": "8b+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 33,
+		"VLGrade": "vl-33",
+		"Type": "vl_sportclimbing",
+		"Grade": "8c",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 34,
+		"VLGrade": "vl-34",
+		"Type": "vl_sportclimbing",
+		"Grade": "8c+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 35,
+		"VLGrade": "vl-35",
+		"Type": "vl_sportclimbing",
+		"Grade": "9a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 36,
+		"VLGrade": "vl-36",
+		"Type": "vl_sportclimbing",
+		"Grade": "9a+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 37,
+		"VLGrade": "vl-37",
+		"Type": "vl_sportclimbing",
+		"Grade": "9b",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 38,
+		"VLGrade": "vl-38",
+		"Type": "vl_sportclimbing",
+		"Grade": "9b+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 39,
+		"VLGrade": "vl-39",
+		"Type": "vl_sportclimbing",
+		"Grade": "9c",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 40,
+		"VLGrade": "vl-1",
+		"Type": "yds",
+		"Grade": "3-4",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 41,
+		"VLGrade": "vl-2",
+		"Type": "yds",
+		"Grade": "5.0",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 42,
+		"VLGrade": "vl-3",
+		"Type": "yds",
+		"Grade": "5.1",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 43,
+		"VLGrade": "vl-4",
+		"Type": "yds",
+		"Grade": "5.2",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 44,
+		"VLGrade": "vl-5",
+		"Type": "yds",
+		"Grade": "5.3",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 45,
+		"VLGrade": "vl-6",
+		"Type": "yds",
+		"Grade": "5.4",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 46,
+		"VLGrade": "vl-7",
+		"Type": "yds",
+		"Grade": "5.5",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 47,
+		"VLGrade": "vl-8",
+		"Type": "yds",
+		"Grade": "5.6",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 48,
+		"VLGrade": "vl-9",
+		"Type": "yds",
+		"Grade": "5.6",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 49,
+		"VLGrade": "vl-10",
+		"Type": "yds",
+		"Grade": "5.7",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 50,
+		"VLGrade": "vl-11",
+		"Type": "yds",
+		"Grade": "5.7",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 51,
+		"VLGrade": "vl-12",
+		"Type": "yds",
+		"Grade": "5.8",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 52,
+		"VLGrade": "vl-13",
+		"Type": "yds",
+		"Grade": "5.8",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 53,
+		"VLGrade": "vl-14",
+		"Type": "yds",
+		"Grade": "5.9",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 54,
+		"VLGrade": "vl-15",
+		"Type": "yds",
+		"Grade": "5.9",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 55,
+		"VLGrade": "vl-16",
+		"Type": "yds",
+		"Grade": "5.10a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 56,
+		"VLGrade": "vl-17",
+		"Type": "yds",
+		"Grade": "5.10b",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 57,
+		"VLGrade": "vl-18",
+		"Type": "yds",
+		"Grade": "5.10c",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 58,
+		"VLGrade": "vl-19",
+		"Type": "yds",
+		"Grade": "5.10d",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 59,
+		"VLGrade": "vl-20",
+		"Type": "yds",
+		"Grade": "5.11a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 60,
+		"VLGrade": "vl-21",
+		"Type": "yds",
+		"Grade": "5.11b",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 61,
+		"VLGrade": "vl-22",
+		"Type": "yds",
+		"Grade": "5.11c",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 62,
+		"VLGrade": "vl-23",
+		"Type": "yds",
+		"Grade": "5.11d",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 63,
+		"VLGrade": "vl-24",
+		"Type": "yds",
+		"Grade": "5.12a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 64,
+		"VLGrade": "vl-25",
+		"Type": "yds",
+		"Grade": "5.12b",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 65,
+		"VLGrade": "vl-26",
+		"Type": "yds",
+		"Grade": "5.12c",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 66,
+		"VLGrade": "vl-27",
+		"Type": "yds",
+		"Grade": "5.12d",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 67,
+		"VLGrade": "vl-28",
+		"Type": "yds",
+		"Grade": "5.13a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 68,
+		"VLGrade": "vl-29",
+		"Type": "yds",
+		"Grade": "5.13b",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 69,
+		"VLGrade": "vl-30",
+		"Type": "yds",
+		"Grade": "5.13c",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 70,
+		"VLGrade": "vl-31",
+		"Type": "yds",
+		"Grade": "5.13d",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 71,
+		"VLGrade": "vl-32",
+		"Type": "yds",
+		"Grade": "5.14a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 72,
+		"VLGrade": "vl-33",
+		"Type": "yds",
+		"Grade": "5.14b",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 73,
+		"VLGrade": "vl-34",
+		"Type": "yds",
+		"Grade": "5.14c",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 74,
+		"VLGrade": "vl-35",
+		"Type": "yds",
+		"Grade": "5.14d",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 75,
+		"VLGrade": "vl-36",
+		"Type": "yds",
+		"Grade": "5.15a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 76,
+		"VLGrade": "vl-37",
+		"Type": "yds",
+		"Grade": "5.15b",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 77,
+		"VLGrade": "vl-38",
+		"Type": "yds",
+		"Grade": "5.15c",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 78,
+		"VLGrade": "vl-39",
+		"Type": "yds",
+		"Grade": "5.15d",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 79,
+		"VLGrade": "vl-1",
+		"Type": "french",
+		"Grade": "1",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 80,
+		"VLGrade": "vl-2",
+		"Type": "french",
+		"Grade": "1",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 81,
+		"VLGrade": "vl-3",
+		"Type": "french",
+		"Grade": "2",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 82,
+		"VLGrade": "vl-4",
+		"Type": "french",
+		"Grade": "3",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 83,
+		"VLGrade": "vl-5",
+		"Type": "french",
+		"Grade": "3",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 84,
+		"VLGrade": "vl-6",
+		"Type": "french",
+		"Grade": "4a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 85,
+		"VLGrade": "vl-7",
+		"Type": "french",
+		"Grade": "4b",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 86,
+		"VLGrade": "vl-8",
+		"Type": "french",
+		"Grade": "4c",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 87,
+		"VLGrade": "vl-9",
+		"Type": "french",
+		"Grade": "5a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 88,
+		"VLGrade": "vl-10",
+		"Type": "french",
+		"Grade": "5a+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 89,
+		"VLGrade": "vl-11",
+		"Type": "french",
+		"Grade": "5a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 90,
+		"VLGrade": "vl-12",
+		"Type": "french",
+		"Grade": "5b",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 91,
+		"VLGrade": "vl-13",
+		"Type": "french",
+		"Grade": "5b+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 92,
+		"VLGrade": "vl-14",
+		"Type": "french",
+		"Grade": "5c",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 93,
+		"VLGrade": "vl-15",
+		"Type": "french",
+		"Grade": "5c+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 94,
+		"VLGrade": "vl-16",
+		"Type": "french",
+		"Grade": "6a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 95,
+		"VLGrade": "vl-17",
+		"Type": "french",
+		"Grade": "6a+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 96,
+		"VLGrade": "vl-18",
+		"Type": "french",
+		"Grade": "6b",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 97,
+		"VLGrade": "vl-19",
+		"Type": "french",
+		"Grade": "6b+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 98,
+		"VLGrade": "vl-20",
+		"Type": "french",
+		"Grade": "6b+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 99,
+		"VLGrade": "vl-21",
+		"Type": "french",
+		"Grade": "6c",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 100,
+		"VLGrade": "vl-22",
+		"Type": "french",
+		"Grade": "6c+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 101,
+		"VLGrade": "vl-23",
+		"Type": "french",
+		"Grade": "7a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 102,
+		"VLGrade": "vl-24",
+		"Type": "french",
+		"Grade": "7a+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 103,
+		"VLGrade": "vl-25",
+		"Type": "french",
+		"Grade": "7b",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 104,
+		"VLGrade": "vl-26",
+		"Type": "french",
+		"Grade": "7b+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 105,
+		"VLGrade": "vl-27",
+		"Type": "french",
+		"Grade": "7c",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 106,
+		"VLGrade": "vl-28",
+		"Type": "french",
+		"Grade": "7c+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 107,
+		"VLGrade": "vl-29",
+		"Type": "french",
+		"Grade": "8a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 108,
+		"VLGrade": "vl-30",
+		"Type": "french",
+		"Grade": "8a+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 109,
+		"VLGrade": "vl-31",
+		"Type": "french",
+		"Grade": "8b",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 110,
+		"VLGrade": "vl-32",
+		"Type": "french",
+		"Grade": "8b+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 111,
+		"VLGrade": "vl-33",
+		"Type": "french",
+		"Grade": "8c",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 112,
+		"VLGrade": "vl-34",
+		"Type": "french",
+		"Grade": "8c+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 113,
+		"VLGrade": "vl-35",
+		"Type": "french",
+		"Grade": "9a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 114,
+		"VLGrade": "vl-36",
+		"Type": "french",
+		"Grade": "9a+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 115,
+		"VLGrade": "vl-37",
+		"Type": "french",
+		"Grade": "9b",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 116,
+		"VLGrade": "vl-38",
+		"Type": "french",
+		"Grade": "9b+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 117,
+		"VLGrade": "vl-39",
+		"Type": "french",
+		"Grade": "9c",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 118,
+		"VLGrade": "vl-1",
+		"Type": "uiaa_roman",
+		"Grade": "I",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 119,
+		"VLGrade": "vl-2",
+		"Type": "uiaa_roman",
+		"Grade": "I",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 120,
+		"VLGrade": "vl-3",
+		"Type": "uiaa_roman",
+		"Grade": "II",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 121,
+		"VLGrade": "vl-4",
+		"Type": "uiaa_roman",
+		"Grade": "II",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 122,
+		"VLGrade": "vl-5",
+		"Type": "uiaa_roman",
+		"Grade": "III",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 123,
+		"VLGrade": "vl-6",
+		"Type": "uiaa_roman",
+		"Grade": "IV",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 124,
+		"VLGrade": "vl-7",
+		"Type": "uiaa_roman",
+		"Grade": "IV+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 125,
+		"VLGrade": "vl-8",
+		"Type": "uiaa_roman",
+		"Grade": "V-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 126,
+		"VLGrade": "vl-9",
+		"Type": "uiaa_roman",
+		"Grade": "V",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 127,
+		"VLGrade": "vl-10",
+		"Type": "uiaa_roman",
+		"Grade": "V+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 128,
+		"VLGrade": "vl-11",
+		"Type": "uiaa_roman",
+		"Grade": "V+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 129,
+		"VLGrade": "vl-12",
+		"Type": "uiaa_roman",
+		"Grade": "VI-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 130,
+		"VLGrade": "vl-13",
+		"Type": "uiaa_roman",
+		"Grade": "VI-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 131,
+		"VLGrade": "vl-14",
+		"Type": "uiaa_roman",
+		"Grade": "VI",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 132,
+		"VLGrade": "vl-15",
+		"Type": "uiaa_roman",
+		"Grade": "VI",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 133,
+		"VLGrade": "vl-16",
+		"Type": "uiaa_roman",
+		"Grade": "VI+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 134,
+		"VLGrade": "vl-17",
+		"Type": "uiaa_roman",
+		"Grade": "VII-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 135,
+		"VLGrade": "vl-18",
+		"Type": "uiaa_roman",
+		"Grade": "VII",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 136,
+		"VLGrade": "vl-19",
+		"Type": "uiaa_roman",
+		"Grade": "VII+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 137,
+		"VLGrade": "vl-20",
+		"Type": "uiaa_roman",
+		"Grade": "VII+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 138,
+		"VLGrade": "vl-21",
+		"Type": "uiaa_roman",
+		"Grade": "VII+/VIII-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 139,
+		"VLGrade": "vl-22",
+		"Type": "uiaa_roman",
+		"Grade": "VIII-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 140,
+		"VLGrade": "vl-23",
+		"Type": "uiaa_roman",
+		"Grade": "VIII",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 141,
+		"VLGrade": "vl-24",
+		"Type": "uiaa_roman",
+		"Grade": "VIII+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 142,
+		"VLGrade": "vl-25",
+		"Type": "uiaa_roman",
+		"Grade": "VIII+/IX-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 143,
+		"VLGrade": "vl-26",
+		"Type": "uiaa_roman",
+		"Grade": "IX-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 144,
+		"VLGrade": "vl-27",
+		"Type": "uiaa_roman",
+		"Grade": "IX",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 145,
+		"VLGrade": "vl-28",
+		"Type": "uiaa_roman",
+		"Grade": "IX+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 146,
+		"VLGrade": "vl-29",
+		"Type": "uiaa_roman",
+		"Grade": "IX+/X-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 147,
+		"VLGrade": "vl-30",
+		"Type": "uiaa_roman",
+		"Grade": "X-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 148,
+		"VLGrade": "vl-31",
+		"Type": "uiaa_roman",
+		"Grade": "X",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 149,
+		"VLGrade": "vl-32",
+		"Type": "uiaa_roman",
+		"Grade": "X+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 150,
+		"VLGrade": "vl-33",
+		"Type": "uiaa_roman",
+		"Grade": "X+/XI-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 151,
+		"VLGrade": "vl-34",
+		"Type": "uiaa_roman",
+		"Grade": "XI-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 152,
+		"VLGrade": "vl-35",
+		"Type": "uiaa_roman",
+		"Grade": "XI",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 153,
+		"VLGrade": "vl-36",
+		"Type": "uiaa_roman",
+		"Grade": "XI/XI+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 154,
+		"VLGrade": "vl-37",
+		"Type": "uiaa_roman",
+		"Grade": "XI+/XII-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 155,
+		"VLGrade": "vl-38",
+		"Type": "uiaa_roman",
+		"Grade": "XII-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 156,
+		"VLGrade": "vl-39",
+		"Type": "uiaa_roman",
+		"Grade": "XII",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 157,
+		"VLGrade": "vl-1",
+		"Type": "ewbank",
+		"Grade": "1-2",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 158,
+		"VLGrade": "vl-2",
+		"Type": "ewbank",
+		"Grade": "3-4",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 159,
+		"VLGrade": "vl-3",
+		"Type": "ewbank",
+		"Grade": "5-6",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 160,
+		"VLGrade": "vl-4",
+		"Type": "ewbank",
+		"Grade": "7-8",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 161,
+		"VLGrade": "vl-5",
+		"Type": "ewbank",
+		"Grade": "8-9",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 162,
+		"VLGrade": "vl-6",
+		"Type": "ewbank",
+		"Grade": "10-11",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 163,
+		"VLGrade": "vl-7",
+		"Type": "ewbank",
+		"Grade": "11-12",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 164,
+		"VLGrade": "vl-8",
+		"Type": "ewbank",
+		"Grade": "13",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 165,
+		"VLGrade": "vl-9",
+		"Type": "ewbank",
+		"Grade": "14-15",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 166,
+		"VLGrade": "vl-10",
+		"Type": "ewbank",
+		"Grade": "14-15",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 167,
+		"VLGrade": "vl-11",
+		"Type": "ewbank",
+		"Grade": "14-15",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 168,
+		"VLGrade": "vl-12",
+		"Type": "ewbank",
+		"Grade": "15-16",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 169,
+		"VLGrade": "vl-13",
+		"Type": "ewbank",
+		"Grade": "15-16",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 170,
+		"VLGrade": "vl-14",
+		"Type": "ewbank",
+		"Grade": "17",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 171,
+		"VLGrade": "vl-15",
+		"Type": "ewbank",
+		"Grade": "17",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 172,
+		"VLGrade": "vl-16",
+		"Type": "ewbank",
+		"Grade": "18",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 173,
+		"VLGrade": "vl-17",
+		"Type": "ewbank",
+		"Grade": "19",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 174,
+		"VLGrade": "vl-18",
+		"Type": "ewbank",
+		"Grade": "20",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 175,
+		"VLGrade": "vl-19",
+		"Type": "ewbank",
+		"Grade": "20",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 176,
+		"VLGrade": "vl-20",
+		"Type": "ewbank",
+		"Grade": "21",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 177,
+		"VLGrade": "vl-21",
+		"Type": "ewbank",
+		"Grade": "22",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 178,
+		"VLGrade": "vl-22",
+		"Type": "ewbank",
+		"Grade": "23",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 179,
+		"VLGrade": "vl-23",
+		"Type": "ewbank",
+		"Grade": "24",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 180,
+		"VLGrade": "vl-24",
+		"Type": "ewbank",
+		"Grade": "25",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 181,
+		"VLGrade": "vl-25",
+		"Type": "ewbank",
+		"Grade": "26",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 182,
+		"VLGrade": "vl-26",
+		"Type": "ewbank",
+		"Grade": "27",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 183,
+		"VLGrade": "vl-27",
+		"Type": "ewbank",
+		"Grade": "28",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 184,
+		"VLGrade": "vl-28",
+		"Type": "ewbank",
+		"Grade": "29",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 185,
+		"VLGrade": "vl-29",
+		"Type": "ewbank",
+		"Grade": "29",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 186,
+		"VLGrade": "vl-30",
+		"Type": "ewbank",
+		"Grade": "30",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 187,
+		"VLGrade": "vl-31",
+		"Type": "ewbank",
+		"Grade": "31",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 188,
+		"VLGrade": "vl-32",
+		"Type": "ewbank",
+		"Grade": "32",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 189,
+		"VLGrade": "vl-33",
+		"Type": "ewbank",
+		"Grade": "33",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 190,
+		"VLGrade": "vl-34",
+		"Type": "ewbank",
+		"Grade": "34",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 191,
+		"VLGrade": "vl-35",
+		"Type": "ewbank",
+		"Grade": "35",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 192,
+		"VLGrade": "vl-36",
+		"Type": "ewbank",
+		"Grade": "36",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 193,
+		"VLGrade": "vl-37",
+		"Type": "ewbank",
+		"Grade": "37",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 194,
+		"VLGrade": "vl-38",
+		"Type": "ewbank",
+		"Grade": "38",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 195,
+		"VLGrade": "vl-39",
+		"Type": "ewbank",
+		"Grade": "39",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 196,
+		"VLGrade": "vl-1",
+		"Type": "font",
+		"Grade": "2",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 197,
+		"VLGrade": "vl-2",
+		"Type": "font",
+		"Grade": "2+",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 198,
+		"VLGrade": "vl-3",
+		"Type": "font",
+		"Grade": "3-",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 199,
+		"VLGrade": "vl-4",
+		"Type": "font",
+		"Grade": "3",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 200,
+		"VLGrade": "vl-5",
+		"Type": "font",
+		"Grade": "3+",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 201,
+		"VLGrade": "vl-6",
+		"Type": "font",
+		"Grade": "4-",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 202,
+		"VLGrade": "vl-7",
+		"Type": "font",
+		"Grade": "4",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 203,
+		"VLGrade": "vl-8",
+		"Type": "font",
+		"Grade": "4+",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 204,
+		"VLGrade": "vl-9",
+		"Type": "font",
+		"Grade": "5-",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 205,
+		"VLGrade": "vl-10",
+		"Type": "font",
+		"Grade": "5-",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 206,
+		"VLGrade": "vl-11",
+		"Type": "font",
+		"Grade": "5-",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 207,
+		"VLGrade": "vl-12",
+		"Type": "font",
+		"Grade": "5",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 208,
+		"VLGrade": "vl-13",
+		"Type": "font",
+		"Grade": "5",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 209,
+		"VLGrade": "vl-14",
+		"Type": "font",
+		"Grade": "5+",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 210,
+		"VLGrade": "vl-15",
+		"Type": "font",
+		"Grade": "5+",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 211,
+		"VLGrade": "vl-16",
+		"Type": "font",
+		"Grade": "6A",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 212,
+		"VLGrade": "vl-17",
+		"Type": "font",
+		"Grade": "6A+",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 213,
+		"VLGrade": "vl-18",
+		"Type": "font",
+		"Grade": "6B",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 214,
+		"VLGrade": "vl-19",
+		"Type": "font",
+		"Grade": "6B+",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 215,
+		"VLGrade": "vl-20",
+		"Type": "font",
+		"Grade": "6B+",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 216,
+		"VLGrade": "vl-21",
+		"Type": "font",
+		"Grade": "6C",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 217,
+		"VLGrade": "vl-22",
+		"Type": "font",
+		"Grade": "6C+",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 218,
+		"VLGrade": "vl-23",
+		"Type": "font",
+		"Grade": "7A",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 219,
+		"VLGrade": "vl-24",
+		"Type": "font",
+		"Grade": "7A+",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 220,
+		"VLGrade": "vl-25",
+		"Type": "font",
+		"Grade": "7B",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 221,
+		"VLGrade": "vl-26",
+		"Type": "font",
+		"Grade": "7B+",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 222,
+		"VLGrade": "vl-27",
+		"Type": "font",
+		"Grade": "7C",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 223,
+		"VLGrade": "vl-28",
+		"Type": "font",
+		"Grade": "7C+",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 224,
+		"VLGrade": "vl-29",
+		"Type": "font",
+		"Grade": "8A",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 225,
+		"VLGrade": "vl-30",
+		"Type": "font",
+		"Grade": "8A+",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 226,
+		"VLGrade": "vl-31",
+		"Type": "font",
+		"Grade": "8B",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 227,
+		"VLGrade": "vl-32",
+		"Type": "font",
+		"Grade": "8B+",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 228,
+		"VLGrade": "vl-33",
+		"Type": "font",
+		"Grade": "8C",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 229,
+		"VLGrade": "vl-34",
+		"Type": "font",
+		"Grade": "8C+",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 230,
+		"VLGrade": "vl-1",
+		"Type": "hueco",
+		"Grade": "VB",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 231,
+		"VLGrade": "vl-2",
+		"Type": "hueco",
+		"Grade": "VB",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 232,
+		"VLGrade": "vl-3",
+		"Type": "hueco",
+		"Grade": "VB",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 233,
+		"VLGrade": "vl-4",
+		"Type": "hueco",
+		"Grade": "VB",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 234,
+		"VLGrade": "vl-5",
+		"Type": "hueco",
+		"Grade": "VB",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 235,
+		"VLGrade": "vl-6",
+		"Type": "hueco",
+		"Grade": "V0-",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 236,
+		"VLGrade": "vl-7",
+		"Type": "hueco",
+		"Grade": "V0",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 237,
+		"VLGrade": "vl-8",
+		"Type": "hueco",
+		"Grade": "V0+",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 238,
+		"VLGrade": "vl-9",
+		"Type": "hueco",
+		"Grade": "V1",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 239,
+		"VLGrade": "vl-10",
+		"Type": "hueco",
+		"Grade": "V1",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 240,
+		"VLGrade": "vl-11",
+		"Type": "hueco",
+		"Grade": "V1",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 241,
+		"VLGrade": "vl-12",
+		"Type": "hueco",
+		"Grade": "V1",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 242,
+		"VLGrade": "vl-13",
+		"Type": "hueco",
+		"Grade": "V1",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 243,
+		"VLGrade": "vl-14",
+		"Type": "hueco",
+		"Grade": "V1",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 244,
+		"VLGrade": "vl-15",
+		"Type": "hueco",
+		"Grade": "V1",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 245,
+		"VLGrade": "vl-16",
+		"Type": "hueco",
+		"Grade": "V2",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 246,
+		"VLGrade": "vl-17",
+		"Type": "hueco",
+		"Grade": "V3",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 247,
+		"VLGrade": "vl-18",
+		"Type": "hueco",
+		"Grade": "V3",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 248,
+		"VLGrade": "vl-19",
+		"Type": "hueco",
+		"Grade": "V4",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 249,
+		"VLGrade": "vl-20",
+		"Type": "hueco",
+		"Grade": "V4",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 250,
+		"VLGrade": "vl-21",
+		"Type": "hueco",
+		"Grade": "V5",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 251,
+		"VLGrade": "vl-22",
+		"Type": "hueco",
+		"Grade": "V5",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 252,
+		"VLGrade": "vl-23",
+		"Type": "hueco",
+		"Grade": "V6",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 253,
+		"VLGrade": "vl-24",
+		"Type": "hueco",
+		"Grade": "V7",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 254,
+		"VLGrade": "vl-25",
+		"Type": "hueco",
+		"Grade": "V8",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 255,
+		"VLGrade": "vl-26",
+		"Type": "hueco",
+		"Grade": "V8",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 256,
+		"VLGrade": "vl-27",
+		"Type": "hueco",
+		"Grade": "V9",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 257,
+		"VLGrade": "vl-28",
+		"Type": "hueco",
+		"Grade": "V10",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 258,
+		"VLGrade": "vl-29",
+		"Type": "hueco",
+		"Grade": "V11",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 259,
+		"VLGrade": "vl-30",
+		"Type": "hueco",
+		"Grade": "V12",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 260,
+		"VLGrade": "vl-31",
+		"Type": "hueco",
+		"Grade": "V13",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 261,
+		"VLGrade": "vl-32",
+		"Type": "hueco",
+		"Grade": "V14",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 262,
+		"VLGrade": "vl-33",
+		"Type": "hueco",
+		"Grade": "V15",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 263,
+		"VLGrade": "vl-34",
+		"Type": "hueco",
+		"Grade": "V16",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 264,
+		"VLGrade": "vl-1",
+		"Type": "uiaa",
+		"Grade": "1",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 265,
+		"VLGrade": "vl-2",
+		"Type": "uiaa",
+		"Grade": "1",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 266,
+		"VLGrade": "vl-3",
+		"Type": "uiaa",
+		"Grade": "2",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 267,
+		"VLGrade": "vl-4",
+		"Type": "uiaa",
+		"Grade": "2",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 268,
+		"VLGrade": "vl-5",
+		"Type": "uiaa",
+		"Grade": "3",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 269,
+		"VLGrade": "vl-6",
+		"Type": "uiaa",
+		"Grade": "4",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 270,
+		"VLGrade": "vl-7",
+		"Type": "uiaa",
+		"Grade": "4+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 271,
+		"VLGrade": "vl-8",
+		"Type": "uiaa",
+		"Grade": "5-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 272,
+		"VLGrade": "vl-9",
+		"Type": "uiaa",
+		"Grade": "5",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 273,
+		"VLGrade": "vl-10",
+		"Type": "uiaa",
+		"Grade": "5+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 274,
+		"VLGrade": "vl-11",
+		"Type": "uiaa",
+		"Grade": "5+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 275,
+		"VLGrade": "vl-12",
+		"Type": "uiaa",
+		"Grade": "6-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 276,
+		"VLGrade": "vl-13",
+		"Type": "uiaa",
+		"Grade": "6-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 277,
+		"VLGrade": "vl-14",
+		"Type": "uiaa",
+		"Grade": "6",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 278,
+		"VLGrade": "vl-15",
+		"Type": "uiaa",
+		"Grade": "6",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 279,
+		"VLGrade": "vl-16",
+		"Type": "uiaa",
+		"Grade": "6+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 280,
+		"VLGrade": "vl-17",
+		"Type": "uiaa",
+		"Grade": "7-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 281,
+		"VLGrade": "vl-18",
+		"Type": "uiaa",
+		"Grade": "7",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 282,
+		"VLGrade": "vl-19",
+		"Type": "uiaa",
+		"Grade": "7+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 283,
+		"VLGrade": "vl-20",
+		"Type": "uiaa",
+		"Grade": "7+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 284,
+		"VLGrade": "vl-21",
+		"Type": "uiaa",
+		"Grade": "7+/8-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 285,
+		"VLGrade": "vl-22",
+		"Type": "uiaa",
+		"Grade": "8-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 286,
+		"VLGrade": "vl-23",
+		"Type": "uiaa",
+		"Grade": "8",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 287,
+		"VLGrade": "vl-24",
+		"Type": "uiaa",
+		"Grade": "8+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 288,
+		"VLGrade": "vl-25",
+		"Type": "uiaa",
+		"Grade": "8+/9-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 289,
+		"VLGrade": "vl-26",
+		"Type": "uiaa",
+		"Grade": "9-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 290,
+		"VLGrade": "vl-27",
+		"Type": "uiaa",
+		"Grade": "9",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 291,
+		"VLGrade": "vl-28",
+		"Type": "uiaa",
+		"Grade": "9+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 292,
+		"VLGrade": "vl-29",
+		"Type": "uiaa",
+		"Grade": "9+/10-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 293,
+		"VLGrade": "vl-30",
+		"Type": "uiaa",
+		"Grade": "10-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 294,
+		"VLGrade": "vl-31",
+		"Type": "uiaa",
+		"Grade": "10",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 295,
+		"VLGrade": "vl-32",
+		"Type": "uiaa",
+		"Grade": "10+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 296,
+		"VLGrade": "vl-33",
+		"Type": "uiaa",
+		"Grade": "10+/11-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 297,
+		"VLGrade": "vl-34",
+		"Type": "uiaa",
+		"Grade": "11-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 298,
+		"VLGrade": "vl-35",
+		"Type": "uiaa",
+		"Grade": "11",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 299,
+		"VLGrade": "vl-36",
+		"Type": "uiaa",
+		"Grade": "11/11+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 300,
+		"VLGrade": "vl-37",
+		"Type": "uiaa",
+		"Grade": "11+/12-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 301,
+		"VLGrade": "vl-38",
+		"Type": "uiaa",
+		"Grade": "12-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 302,
+		"VLGrade": "vl-39",
+		"Type": "uiaa",
+		"Grade": "12",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 303,
+		"VLGrade": "vl-1",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Easy",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 304,
+		"VLGrade": "vl-2",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Easy",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 305,
+		"VLGrade": "vl-3",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Easy",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 306,
+		"VLGrade": "vl-4",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Easy",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 307,
+		"VLGrade": "vl-5",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Easy",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 308,
+		"VLGrade": "vl-6",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Easy",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 309,
+		"VLGrade": "vl-7",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Easy",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 310,
+		"VLGrade": "vl-8",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Easy",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 311,
+		"VLGrade": "vl-9",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Moderate",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 312,
+		"VLGrade": "vl-10",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Moderate",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 313,
+		"VLGrade": "vl-11",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Moderate",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 314,
+		"VLGrade": "vl-12",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Moderate",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 315,
+		"VLGrade": "vl-13",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Moderate",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 316,
+		"VLGrade": "vl-14",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Moderate",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 317,
+		"VLGrade": "vl-15",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Moderate",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 318,
+		"VLGrade": "vl-16",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Hard",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 319,
+		"VLGrade": "vl-17",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Hard",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 320,
+		"VLGrade": "vl-18",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Hard",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 321,
+		"VLGrade": "vl-19",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Hard",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 322,
+		"VLGrade": "vl-20",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Very hard",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 323,
+		"VLGrade": "vl-21",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Very hard",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 324,
+		"VLGrade": "vl-22",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Very hard",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 325,
+		"VLGrade": "vl-23",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Very hard",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 326,
+		"VLGrade": "vl-24",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Very hard",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 327,
+		"VLGrade": "vl-25",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Extreme",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 328,
+		"VLGrade": "vl-26",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Extreme",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 329,
+		"VLGrade": "vl-27",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Extreme",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 330,
+		"VLGrade": "vl-28",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Extreme",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 331,
+		"VLGrade": "vl-29",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Extreme",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 332,
+		"VLGrade": "vl-30",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Insane",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 333,
+		"VLGrade": "vl-31",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Insane",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 334,
+		"VLGrade": "vl-32",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Insane",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 335,
+		"VLGrade": "vl-33",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Insane",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 336,
+		"VLGrade": "vl-34",
+		"Type": "vl_gym_bouldering",
+		"Grade": "Insane",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 337,
+		"VLGrade": "vl-1",
+		"Type": "polish",
+		"Grade": "I",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 338,
+		"VLGrade": "vl-2",
+		"Type": "polish",
+		"Grade": "I",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 339,
+		"VLGrade": "vl-3",
+		"Type": "polish",
+		"Grade": "II",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 340,
+		"VLGrade": "vl-4",
+		"Type": "polish",
+		"Grade": "III",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 341,
+		"VLGrade": "vl-5",
+		"Type": "polish",
+		"Grade": "III+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 342,
+		"VLGrade": "vl-6",
+		"Type": "polish",
+		"Grade": "IV-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 343,
+		"VLGrade": "vl-7",
+		"Type": "polish",
+		"Grade": "IV",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 344,
+		"VLGrade": "vl-8",
+		"Type": "polish",
+		"Grade": "IV+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 345,
+		"VLGrade": "vl-9",
+		"Type": "polish",
+		"Grade": "V-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 346,
+		"VLGrade": "vl-10",
+		"Type": "polish",
+		"Grade": "V",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 347,
+		"VLGrade": "vl-11",
+		"Type": "polish",
+		"Grade": "V",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 348,
+		"VLGrade": "vl-12",
+		"Type": "polish",
+		"Grade": "V+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 349,
+		"VLGrade": "vl-13",
+		"Type": "polish",
+		"Grade": "V+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 350,
+		"VLGrade": "vl-14",
+		"Type": "polish",
+		"Grade": "VI-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 351,
+		"VLGrade": "vl-15",
+		"Type": "polish",
+		"Grade": "VI",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 352,
+		"VLGrade": "vl-16",
+		"Type": "polish",
+		"Grade": "VI",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 353,
+		"VLGrade": "vl-17",
+		"Type": "polish",
+		"Grade": "VI+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 354,
+		"VLGrade": "vl-18",
+		"Type": "polish",
+		"Grade": "VI.1",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 355,
+		"VLGrade": "vl-19",
+		"Type": "polish",
+		"Grade": "VI.1+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 356,
+		"VLGrade": "vl-20",
+		"Type": "polish",
+		"Grade": "VI.1+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 357,
+		"VLGrade": "vl-21",
+		"Type": "polish",
+		"Grade": "VI.2",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 358,
+		"VLGrade": "vl-22",
+		"Type": "polish",
+		"Grade": "VI.2",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 359,
+		"VLGrade": "vl-23",
+		"Type": "polish",
+		"Grade": "VI.2+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 360,
+		"VLGrade": "vl-24",
+		"Type": "polish",
+		"Grade": "VI.3",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 361,
+		"VLGrade": "vl-25",
+		"Type": "polish",
+		"Grade": "VI.3",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 362,
+		"VLGrade": "vl-26",
+		"Type": "polish",
+		"Grade": "VI.3+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 363,
+		"VLGrade": "vl-27",
+		"Type": "polish",
+		"Grade": "VI.4",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 364,
+		"VLGrade": "vl-28",
+		"Type": "polish",
+		"Grade": "VI.4+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 365,
+		"VLGrade": "vl-29",
+		"Type": "polish",
+		"Grade": "VI.5",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 366,
+		"VLGrade": "vl-30",
+		"Type": "polish",
+		"Grade": "VI.5+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 367,
+		"VLGrade": "vl-31",
+		"Type": "polish",
+		"Grade": "VI.6",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 368,
+		"VLGrade": "vl-32",
+		"Type": "polish",
+		"Grade": "VI.6+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 369,
+		"VLGrade": "vl-33",
+		"Type": "polish",
+		"Grade": "VI.7",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 370,
+		"VLGrade": "vl-34",
+		"Type": "polish",
+		"Grade": "VI.7+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 371,
+		"VLGrade": "vl-35",
+		"Type": "polish",
+		"Grade": "VI.8",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 372,
+		"VLGrade": "vl-36",
+		"Type": "polish",
+		"Grade": "VI.8",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 373,
+		"VLGrade": "vl-37",
+		"Type": "polish",
+		"Grade": "VI.8",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 374,
+		"VLGrade": "vl-38",
+		"Type": "polish",
+		"Grade": "VI.8",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 375,
+		"VLGrade": "vl-39",
+		"Type": "polish",
+		"Grade": "VI.8",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 376,
+		"VLGrade": "vl-1",
+		"Type": "british",
+		"Grade": "D",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 377,
+		"VLGrade": "vl-2",
+		"Type": "british",
+		"Grade": "D",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 378,
+		"VLGrade": "vl-3",
+		"Type": "british",
+		"Grade": "D",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 379,
+		"VLGrade": "vl-4",
+		"Type": "british",
+		"Grade": "VD",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 380,
+		"VLGrade": "vl-5",
+		"Type": "british",
+		"Grade": "VD",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 381,
+		"VLGrade": "vl-6",
+		"Type": "british",
+		"Grade": "VD 3c",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 382,
+		"VLGrade": "vl-7",
+		"Type": "british",
+		"Grade": "S 3c",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 383,
+		"VLGrade": "vl-8",
+		"Type": "british",
+		"Grade": "S 4a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 384,
+		"VLGrade": "vl-9",
+		"Type": "british",
+		"Grade": "S 4a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 385,
+		"VLGrade": "vl-10",
+		"Type": "british",
+		"Grade": "HS 4b",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 386,
+		"VLGrade": "vl-11",
+		"Type": "british",
+		"Grade": "HS 4c",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 387,
+		"VLGrade": "vl-12",
+		"Type": "british",
+		"Grade": "VS 4b",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 388,
+		"VLGrade": "vl-13",
+		"Type": "british",
+		"Grade": "VS 4c",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 389,
+		"VLGrade": "vl-14",
+		"Type": "british",
+		"Grade": "HVS 4c",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 390,
+		"VLGrade": "vl-15",
+		"Type": "british",
+		"Grade": "HVS 5a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 391,
+		"VLGrade": "vl-16",
+		"Type": "british",
+		"Grade": "E1 5a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 392,
+		"VLGrade": "vl-17",
+		"Type": "british",
+		"Grade": "E1 5b",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 393,
+		"VLGrade": "vl-18",
+		"Type": "british",
+		"Grade": "E2 5b",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 394,
+		"VLGrade": "vl-19",
+		"Type": "british",
+		"Grade": "E2 5c",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 395,
+		"VLGrade": "vl-20",
+		"Type": "british",
+		"Grade": "E3 5c",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 396,
+		"VLGrade": "vl-21",
+		"Type": "british",
+		"Grade": "E3 6a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 397,
+		"VLGrade": "vl-22",
+		"Type": "british",
+		"Grade": "E4 6a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 398,
+		"VLGrade": "vl-23",
+		"Type": "british",
+		"Grade": "E4 6b",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 399,
+		"VLGrade": "vl-24",
+		"Type": "british",
+		"Grade": "E5 6a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 400,
+		"VLGrade": "vl-25",
+		"Type": "british",
+		"Grade": "E5 6b",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 401,
+		"VLGrade": "vl-26",
+		"Type": "british",
+		"Grade": "E6 6b",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 402,
+		"VLGrade": "vl-27",
+		"Type": "british",
+		"Grade": "E7",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 403,
+		"VLGrade": "vl-28",
+		"Type": "british",
+		"Grade": "E7 6c",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 404,
+		"VLGrade": "vl-29",
+		"Type": "british",
+		"Grade": "E7 7a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 405,
+		"VLGrade": "vl-30",
+		"Type": "british",
+		"Grade": "E8 7a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 406,
+		"VLGrade": "vl-31",
+		"Type": "british",
+		"Grade": "E8 7a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 407,
+		"VLGrade": "vl-32",
+		"Type": "british",
+		"Grade": "E8 7a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 408,
+		"VLGrade": "vl-33",
+		"Type": "british",
+		"Grade": "E9 7b",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 409,
+		"VLGrade": "vl-34",
+		"Type": "british",
+		"Grade": "E10 7b",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 410,
+		"VLGrade": "vl-35",
+		"Type": "british",
+		"Grade": "E10 7c",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 411,
+		"VLGrade": "vl-36",
+		"Type": "british",
+		"Grade": "E11 7c",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 412,
+		"VLGrade": "vl-37",
+		"Type": "british",
+		"Grade": "E11 8a",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 413,
+		"VLGrade": "vl-38",
+		"Type": "british",
+		"Grade": "E11 8b",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 414,
+		"VLGrade": "vl-39",
+		"Type": "british",
+		"Grade": "E11 8c",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 415,
+		"VLGrade": "vl-1",
+		"Type": "swedish",
+		"Grade": "2+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 416,
+		"VLGrade": "vl-2",
+		"Type": "swedish",
+		"Grade": "2+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 417,
+		"VLGrade": "vl-3",
+		"Type": "swedish",
+		"Grade": "3-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 418,
+		"VLGrade": "vl-4",
+		"Type": "swedish",
+		"Grade": "3",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 419,
+		"VLGrade": "vl-5",
+		"Type": "swedish",
+		"Grade": "3+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 420,
+		"VLGrade": "vl-6",
+		"Type": "swedish",
+		"Grade": "4-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 421,
+		"VLGrade": "vl-7",
+		"Type": "swedish",
+		"Grade": "4",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 422,
+		"VLGrade": "vl-8",
+		"Type": "swedish",
+		"Grade": "4+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 423,
+		"VLGrade": "vl-9",
+		"Type": "swedish",
+		"Grade": "5-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 424,
+		"VLGrade": "vl-10",
+		"Type": "swedish",
+		"Grade": "5-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 425,
+		"VLGrade": "vl-11",
+		"Type": "swedish",
+		"Grade": "5",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 426,
+		"VLGrade": "vl-12",
+		"Type": "swedish",
+		"Grade": "5",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 427,
+		"VLGrade": "vl-13",
+		"Type": "swedish",
+		"Grade": "5+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 428,
+		"VLGrade": "vl-14",
+		"Type": "swedish",
+		"Grade": "5+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 429,
+		"VLGrade": "vl-15",
+		"Type": "swedish",
+		"Grade": "6-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 430,
+		"VLGrade": "vl-16",
+		"Type": "swedish",
+		"Grade": "6-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 431,
+		"VLGrade": "vl-17",
+		"Type": "swedish",
+		"Grade": "6",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 432,
+		"VLGrade": "vl-18",
+		"Type": "swedish",
+		"Grade": "6+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 433,
+		"VLGrade": "vl-19",
+		"Type": "swedish",
+		"Grade": "6+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 434,
+		"VLGrade": "vl-20",
+		"Type": "swedish",
+		"Grade": "6+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 435,
+		"VLGrade": "vl-21",
+		"Type": "swedish",
+		"Grade": "7-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 436,
+		"VLGrade": "vl-22",
+		"Type": "swedish",
+		"Grade": "7",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 437,
+		"VLGrade": "vl-23",
+		"Type": "swedish",
+		"Grade": "7+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 438,
+		"VLGrade": "vl-24",
+		"Type": "swedish",
+		"Grade": "8-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 439,
+		"VLGrade": "vl-25",
+		"Type": "swedish",
+		"Grade": "8-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 440,
+		"VLGrade": "vl-26",
+		"Type": "swedish",
+		"Grade": "8",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 441,
+		"VLGrade": "vl-27",
+		"Type": "swedish",
+		"Grade": "8/8+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 442,
+		"VLGrade": "vl-28",
+		"Type": "swedish",
+		"Grade": "8+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 443,
+		"VLGrade": "vl-29",
+		"Type": "swedish",
+		"Grade": "9-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 444,
+		"VLGrade": "vl-30",
+		"Type": "swedish",
+		"Grade": "9-/9",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 445,
+		"VLGrade": "vl-31",
+		"Type": "swedish",
+		"Grade": "9",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 446,
+		"VLGrade": "vl-32",
+		"Type": "swedish",
+		"Grade": "9/9+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 447,
+		"VLGrade": "vl-33",
+		"Type": "swedish",
+		"Grade": "9+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 448,
+		"VLGrade": "vl-34",
+		"Type": "swedish",
+		"Grade": "9+/10-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 449,
+		"VLGrade": "vl-35",
+		"Type": "swedish",
+		"Grade": "10-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 450,
+		"VLGrade": "vl-36",
+		"Type": "swedish",
+		"Grade": "10/10+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 451,
+		"VLGrade": "vl-37",
+		"Type": "swedish",
+		"Grade": "11-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 452,
+		"VLGrade": "vl-38",
+		"Type": "swedish",
+		"Grade": "11",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 453,
+		"VLGrade": "vl-39",
+		"Type": "swedish",
+		"Grade": "11+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 454,
+		"VLGrade": "vl-1",
+		"Type": "kochel",
+		"Grade": "1",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 455,
+		"VLGrade": "vl-2",
+		"Type": "kochel",
+		"Grade": "2",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 456,
+		"VLGrade": "vl-3",
+		"Type": "kochel",
+		"Grade": "3",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 457,
+		"VLGrade": "vl-4",
+		"Type": "kochel",
+		"Grade": "4",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 458,
+		"VLGrade": "vl-5",
+		"Type": "kochel",
+		"Grade": "5",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 459,
+		"VLGrade": "vl-6",
+		"Type": "kochel",
+		"Grade": "6",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 460,
+		"VLGrade": "vl-7",
+		"Type": "kochel",
+		"Grade": "6/6+",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 461,
+		"VLGrade": "vl-8",
+		"Type": "kochel",
+		"Grade": "6+",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 462,
+		"VLGrade": "vl-9",
+		"Type": "kochel",
+		"Grade": "7-",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 463,
+		"VLGrade": "vl-10",
+		"Type": "kochel",
+		"Grade": "7-/7",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 464,
+		"VLGrade": "vl-11",
+		"Type": "kochel",
+		"Grade": "7",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 465,
+		"VLGrade": "vl-12",
+		"Type": "kochel",
+		"Grade": "7/7+",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 466,
+		"VLGrade": "vl-13",
+		"Type": "kochel",
+		"Grade": "7+",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 467,
+		"VLGrade": "vl-14",
+		"Type": "kochel",
+		"Grade": "7+/8-",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 468,
+		"VLGrade": "vl-15",
+		"Type": "kochel",
+		"Grade": "7+/8-",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 469,
+		"VLGrade": "vl-16",
+		"Type": "kochel",
+		"Grade": "8-",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 470,
+		"VLGrade": "vl-17",
+		"Type": "kochel",
+		"Grade": "8-/8",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 471,
+		"VLGrade": "vl-18",
+		"Type": "kochel",
+		"Grade": "8",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 472,
+		"VLGrade": "vl-19",
+		"Type": "kochel",
+		"Grade": "8/8+",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 473,
+		"VLGrade": "vl-20",
+		"Type": "kochel",
+		"Grade": "8+",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 474,
+		"VLGrade": "vl-21",
+		"Type": "kochel",
+		"Grade": "8+/9-",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 475,
+		"VLGrade": "vl-22",
+		"Type": "kochel",
+		"Grade": "9-",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 476,
+		"VLGrade": "vl-23",
+		"Type": "kochel",
+		"Grade": "9-/9",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 477,
+		"VLGrade": "vl-24",
+		"Type": "kochel",
+		"Grade": "9",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 478,
+		"VLGrade": "vl-25",
+		"Type": "kochel",
+		"Grade": "9+",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 479,
+		"VLGrade": "vl-26",
+		"Type": "kochel",
+		"Grade": "10-",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 480,
+		"VLGrade": "vl-27",
+		"Type": "kochel",
+		"Grade": "10",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 481,
+		"VLGrade": "vl-28",
+		"Type": "kochel",
+		"Grade": "10+",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 482,
+		"VLGrade": "vl-29",
+		"Type": "kochel",
+		"Grade": "10+/11-",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 483,
+		"VLGrade": "vl-30",
+		"Type": "kochel",
+		"Grade": "11-",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 484,
+		"VLGrade": "vl-31",
+		"Type": "kochel",
+		"Grade": "11-/11",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 485,
+		"VLGrade": "vl-32",
+		"Type": "kochel",
+		"Grade": "11",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 486,
+		"VLGrade": "vl-33",
+		"Type": "kochel",
+		"Grade": "11/11+",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 487,
+		"VLGrade": "vl-34",
+		"Type": "kochel",
+		"Grade": "11+",
+		"Category": "bouldering"
+	},
+	{
+		"Id": 488,
+		"VLGrade": "vl-1",
+		"Type": "norwegian",
+		"Grade": "2+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 489,
+		"VLGrade": "vl-2",
+		"Type": "norwegian",
+		"Grade": "2+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 490,
+		"VLGrade": "vl-3",
+		"Type": "norwegian",
+		"Grade": "3-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 491,
+		"VLGrade": "vl-4",
+		"Type": "norwegian",
+		"Grade": "3",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 492,
+		"VLGrade": "vl-5",
+		"Type": "norwegian",
+		"Grade": "3+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 493,
+		"VLGrade": "vl-6",
+		"Type": "norwegian",
+		"Grade": "4-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 494,
+		"VLGrade": "vl-7",
+		"Type": "norwegian",
+		"Grade": "4",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 495,
+		"VLGrade": "vl-8",
+		"Type": "norwegian",
+		"Grade": "4+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 496,
+		"VLGrade": "vl-9",
+		"Type": "norwegian",
+		"Grade": "5-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 497,
+		"VLGrade": "vl-10",
+		"Type": "norwegian",
+		"Grade": "5-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 498,
+		"VLGrade": "vl-11",
+		"Type": "norwegian",
+		"Grade": "5",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 499,
+		"VLGrade": "vl-12",
+		"Type": "norwegian",
+		"Grade": "5",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 500,
+		"VLGrade": "vl-13",
+		"Type": "norwegian",
+		"Grade": "5+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 501,
+		"VLGrade": "vl-14",
+		"Type": "norwegian",
+		"Grade": "5+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 502,
+		"VLGrade": "vl-15",
+		"Type": "norwegian",
+		"Grade": "6-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 503,
+		"VLGrade": "vl-16",
+		"Type": "norwegian",
+		"Grade": "6-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 504,
+		"VLGrade": "vl-17",
+		"Type": "norwegian",
+		"Grade": "6-/6",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 505,
+		"VLGrade": "vl-18",
+		"Type": "norwegian",
+		"Grade": "6",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 506,
+		"VLGrade": "vl-19",
+		"Type": "norwegian",
+		"Grade": "6+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 507,
+		"VLGrade": "vl-20",
+		"Type": "norwegian",
+		"Grade": "6+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 508,
+		"VLGrade": "vl-21",
+		"Type": "norwegian",
+		"Grade": "7-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 509,
+		"VLGrade": "vl-22",
+		"Type": "norwegian",
+		"Grade": "7",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 510,
+		"VLGrade": "vl-23",
+		"Type": "norwegian",
+		"Grade": "7+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 511,
+		"VLGrade": "vl-24",
+		"Type": "norwegian",
+		"Grade": "7+/8-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 512,
+		"VLGrade": "vl-25",
+		"Type": "norwegian",
+		"Grade": "8-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 513,
+		"VLGrade": "vl-26",
+		"Type": "norwegian",
+		"Grade": "8",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 514,
+		"VLGrade": "vl-27",
+		"Type": "norwegian",
+		"Grade": "8/8+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 515,
+		"VLGrade": "vl-28",
+		"Type": "norwegian",
+		"Grade": "8+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 516,
+		"VLGrade": "vl-29",
+		"Type": "norwegian",
+		"Grade": "9-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 517,
+		"VLGrade": "vl-30",
+		"Type": "norwegian",
+		"Grade": "9-/9",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 518,
+		"VLGrade": "vl-31",
+		"Type": "norwegian",
+		"Grade": "9",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 519,
+		"VLGrade": "vl-32",
+		"Type": "norwegian",
+		"Grade": "9/9+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 520,
+		"VLGrade": "vl-33",
+		"Type": "norwegian",
+		"Grade": "9+",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 521,
+		"VLGrade": "vl-34",
+		"Type": "norwegian",
+		"Grade": "9+/10-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 522,
+		"VLGrade": "vl-35",
+		"Type": "norwegian",
+		"Grade": "10-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 523,
+		"VLGrade": "vl-36",
+		"Type": "norwegian",
+		"Grade": "10",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 524,
+		"VLGrade": "vl-37",
+		"Type": "norwegian",
+		"Grade": "11-",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 525,
+		"VLGrade": "vl-38",
+		"Type": "norwegian",
+		"Grade": "11",
+		"Category": "sportclimbing"
+	},
+	{
+		"Id": 526,
+		"VLGrade": "vl-39",
+		"Type": "norwegian",
+		"Grade": "11+",
+		"Category": "sportclimbing"
+	}
+]

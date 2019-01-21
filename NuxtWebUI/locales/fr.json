@@ -1,0 +1,25 @@
+{
+  "links": {
+    "home": "Accueil",
+    "news": "News(fr)",
+    "videos": "Videos(fr)",
+    "articles": "Articles",
+    "forum":"Forum",
+    "forum-top": "Forum-root"
+  },
+  "home": {
+    "title": "Bievenue"
+  },
+  "news": {
+    "title": "News"
+  },
+  "videos": {
+    "title": "Videos"
+  },
+  "articles": {
+    "title": "Articles"
+  },
+  "forum": {
+    "title": "Forum"
+  }
+}
