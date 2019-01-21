@@ -1,0 +1,17 @@
+# dependencies
+NuxtWebUI/node_modules
+
+NuxtWebUI/npm-debug.log
+NuxtWebUI/yarn-error.log
+
+
+NuxtWebUI/.nuxt
+NuxtWebUI/dist
+
+# .env file
+NuxtWebUI/.env*
+
+.vs/
+NetCoreRestapi/bin/
+NetCoreRestapi/obj/
+NetCoreRestapi/Published/
